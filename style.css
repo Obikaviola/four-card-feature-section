@@ -44,6 +44,7 @@ body {
     padding: 0;
     -webkit-font-smoothing: antialiased;
     font-family: 'Poppins';
+    background: var(--color-very-light-gray);
 }
 
 .container {
@@ -59,7 +60,7 @@ img {
 
 header {
     text-align: center;
-    padding-top: 2em;
+    padding-top: 6em;
 }
 
 h1 {
