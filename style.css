@@ -95,6 +95,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 1em;
+    background-color: hsl(0, 0%, 100%);
 }
 
 .section__content--head {
